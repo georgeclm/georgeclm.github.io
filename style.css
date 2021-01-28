@@ -17,3 +17,16 @@
   height: 12px;
   border: 2px solid rgb(43, 40, 40);
 }
+@media screen and (max-width: 768px) {
+  .card {
+    position: absolute !important;
+    width: 100% !important;
+  }
+}
+@media screen and (min-width: 701px) and (max-width: 1600px) {
+  #wel {
+    position: absolute;
+    top: 108px;
+    left: 400px;
+  }
+}

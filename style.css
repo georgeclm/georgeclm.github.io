@@ -17,6 +17,9 @@
   height: 12px;
   border: 2px solid rgb(43, 40, 40);
 }
+.img-fluid {
+  width: 20rem;
+}
 @media screen and (max-width: 768px) {
   .card {
     position: absolute !important;
